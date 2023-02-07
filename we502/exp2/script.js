@@ -10,6 +10,7 @@ function getdetails(){
                 Email: ${ele.email}
                 <br> `
             });
+            console.log(..data:any[]: void arguments.main.temp_min);
         }
     }
 }
